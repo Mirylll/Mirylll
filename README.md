@@ -1,4 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Miryl&fontSize=60&animation=fadeIn&fontColor=ffffff)
 # Miryl
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Full+Stack+Developer;Next.js+%26+NestJS+Enthusiast;Always+learning+new+things)
 
 **Full Stack Developer** · Next.js · NestJS · React · TypeScript
 
@@ -87,7 +89,7 @@ Follows Conventional Commits for structured version history. Writes English tech
 ---
 
 ## GitHub Stats
-
+![Trophy](https://github-profile-trophy.vercel.app/?username=Mirylll&theme=onestar&no-frame=true&row=1&column=6)
 <div align="center">
 
 ![Miryl's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Mirylll&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
