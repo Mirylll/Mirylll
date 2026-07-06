@@ -108,6 +108,10 @@ Follows Conventional Commits for structured version history. Writes English tech
 
 ---
 
+![Pac-Man](https://raw.githubusercontent.com/Mirylll/Mirylll/output/pacman.svg)
+
+---
+
 ## Let's Connect
 
 - Email: hntb0102@gmail.com
