@@ -4,11 +4,11 @@
 
 # Miryl
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Full+Stack+Developer;Next.js+%26+NestJS+Enthusiast;Always+learning+new+things)
-
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&center=true&lines=Full+Stack+Developer;Next.js+%26+NestJS+Enthusiast;Always+learning+new+things)
 
 **Full Stack Developer** · Next.js · NestJS · React · TypeScript
+
+</div>
 
 ---
 
