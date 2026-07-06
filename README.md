@@ -98,7 +98,7 @@ Follows Conventional Commits for structured version history. Writes English tech
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Mirylll&theme=nord&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mirylll&theme=github-compact&hide_border=true)
 
 ![Miryl's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Mirylll&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
