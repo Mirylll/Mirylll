@@ -90,9 +90,13 @@ Follows Conventional Commits for structured version history. Writes English tech
 
 <div align="center">
 
-![Miryl's GitHub Stats](https://github-stats.as93.net/Mirylll?theme=dark)
+<a href="https://github.com/Mirylll">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mirylll&theme=github_dark" />
+</a>
 
-![Top Languages](https://github-readme-stats-eight-green-50.vercel.app/api/top-langs/?username=Mirylll&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+<a href="https://github.com/Mirylll">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mirylll&theme=github_dark" />
+</a>
 
 </div>
 
